@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.1)  12 NOV 2011 16:51
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.1)  12 NOV 2011 19:05
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -212,70 +212,73 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 13.
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--53
+Underfull \hbox (badness 10000) in paragraph at lines 45--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--67
+Underfull \hbox (badness 10000) in paragraph at lines 56--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--67
-
- []
-
-
-Overfull \hbox (5.68942pt too wide) in paragraph at lines 68--73
-[][]\OT1/cmr/m/n/10 Echodio.com[][] keeps iTunes mu-sic li-braries in sync, se-
-curely backed up and playable from PC/Phone/TV.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--73
+Underfull \hbox (badness 10000) in paragraph at lines 56--65
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 74--76
+Overfull \hbox (1.18944pt too wide) in paragraph at lines 67--72
+[][]\OT1/cmr/m/n/10 Echodio.com[][] kept iTunes mu-sic li-braries in sync, se-c
+urely backed up and playable from PC/Phone/TV. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--82
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--91
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
+Underfull \hbox (badness 10000) in paragraph at lines 83--89
 
  []
 
-[2] ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
+
+ []
+
+[2
+
+] ) 
 Here is how much of TeX's memory you used:
- 4086 strings out of 495061
- 59446 string characters out of 1182621
- 133474 words of memory out of 3000000
- 7248 multiletter control sequences out of 15000+50000
- 6121 words of font info for 22 fonts, out of 3000000 for 9000
+ 4088 strings out of 495061
+ 59467 string characters out of 1182621
+ 131474 words of memory out of 3000000
+ 7249 multiletter control sequences out of 15000+50000
+ 6467 words of font info for 23 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,6n,21p,404b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
-share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf
--texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/p
-ublic/amsfonts/cm/cmsl10.pfb>
-Output written on resume.pdf (2 pages, 98909 bytes).
+ 38i,6n,21p,351b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmti10.pfb>
+Output written on resume.pdf (2 pages, 109076 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
