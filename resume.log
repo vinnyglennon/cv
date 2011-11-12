@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.1)  12 NOV 2011 16:13
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.1)  12 NOV 2011 16:51
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -154,29 +154,21 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
 \Fld@listcount=\count94
-)
-(/usr/share/texmf-texlive/tex/latex/tools/array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen109
-\extrarowheight=\dimen110
-\NC@list=\toks21
-\extratabsurround=\skip44
-\backup@length=\skip45
 ) (./resume.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 (/usr/share/texmf-texlive/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -193,17 +185,17 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count96
-\scratchdimen=\dimen111
+\scratchdimen=\dimen109
 \scratchbox=\box26
 \nofMPsegments=\count97
 \nofMParguments=\count98
-\everyMPshowfont=\toks22
+\everyMPshowfont=\toks21
 \MPscratchCnt=\count99
-\MPscratchDim=\dimen112
+\MPscratchDim=\dimen110
 \MPnumerator=\count100
-\everyMPtoPDFconversion=\toks23
+\everyMPtoPDFconversion=\toks22
 )))
-Package hyperref Info: Link coloring ON on input line 6.
+Package hyperref Info: Link coloring ON on input line 5.
  (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
@@ -212,62 +204,67 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count101
 )
-LaTeX Info: Redefining \ref on input line 6.
-LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
 \AtBeginShipoutBox=\box27
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 14.
+(Font)              <5> on input line 13.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--71
+Underfull \hbox (badness 10000) in paragraph at lines 46--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--71
+Underfull \hbox (badness 10000) in paragraph at lines 58--67
 
  []
 
 
-Overfull \hbox (5.68942pt too wide) in paragraph at lines 73--78
+Underfull \hbox (badness 10000) in paragraph at lines 58--67
+
+ []
+
+
+Overfull \hbox (5.68942pt too wide) in paragraph at lines 68--73
 [][]\OT1/cmr/m/n/10 Echodio.com[][] keeps iTunes mu-sic li-braries in sync, se-
 curely backed up and playable from PC/Phone/TV.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--78
+Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--87
+Underfull \hbox (badness 10000) in paragraph at lines 77--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--96
+Underfull \hbox (badness 10000) in paragraph at lines 84--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
  []
 
 [2] ) 
 Here is how much of TeX's memory you used:
- 4131 strings out of 495061
- 59985 string characters out of 1182621
- 133173 words of memory out of 3000000
- 7290 multiletter control sequences out of 15000+50000
+ 4086 strings out of 495061
+ 59446 string characters out of 1182621
+ 133474 words of memory out of 3000000
+ 7248 multiletter control sequences out of 15000+50000
  6121 words of font info for 22 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,6n,21p,404b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -276,9 +273,9 @@ share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf
 -texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/f
 onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmsl10.pfb>
-Output written on resume.pdf (2 pages, 98433 bytes).
+Output written on resume.pdf (2 pages, 98909 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
