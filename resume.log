@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.1)  19 NOV 2011 01:57
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.1)  19 NOV 2011 12:40
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -265,7 +265,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--94
 Here is how much of TeX's memory you used:
  4088 strings out of 495061
  59467 string characters out of 1182621
- 130474 words of memory out of 3000000
+ 131474 words of memory out of 3000000
  7249 multiletter control sequences out of 15000+50000
  6467 words of font info for 23 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -276,7 +276,7 @@ exlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pub
 lic/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
 s/cm/cmti10.pfb>
-Output written on resume.pdf (2 pages, 109081 bytes).
+Output written on resume.pdf (2 pages, 109069 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
